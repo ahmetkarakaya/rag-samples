@@ -25,6 +25,7 @@ payload = {
     "temperature": 0.7,        # Sampling temperature
     "top_p": 0.9,              # Nucleus sampling parameter
     "stop_sequences": ["\n"]    # Sequences where the API will stop generating further tokens
+    
 }
 
 # Optional: If your Ollama server requires authentication, set the headers accordingly

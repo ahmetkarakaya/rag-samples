@@ -15,6 +15,12 @@ Model do not want to answer correctly. So it should be updated with correct ones
 
 ## Ollama Sample Commands
 
-> ollama run llama:latest
-> ollama list
-> ollama ps
+> * ollama run llama:latest
+> * ollama list
+> * ollama ps
+
+
+# Links
+
+* Ollama sample python codes - [Link](https://github.com/ollama/ollama-python)
+*

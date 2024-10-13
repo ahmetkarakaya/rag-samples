@@ -4,7 +4,9 @@ import json
 def query_ollama(prompt, model="llama3"):
     url = "http://localhost:11434/api/generate"
 
+    #stream True or False
     payload = {
+        "stream": False,
         "model": model,
         "prompt": prompt
     }
