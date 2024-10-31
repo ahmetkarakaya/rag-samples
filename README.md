@@ -12,7 +12,6 @@ curl -X POST http://localhost:11434/api/generate      -H "Content-Type: applicat
 
 Model do not want to answer correctly. So it should be updated with correct ones .Correct  answer is **Kudus**.
 
-
 ## Ollama Sample Commands
 
 > * ollama run llama:latest
@@ -20,7 +19,9 @@ Model do not want to answer correctly. So it should be updated with correct ones
 > * ollama ps
 
 
+## Start Building These Projects to Become an LLM Engineer
+
 # Links
 
 * Ollama sample python codes - [Link](https://github.com/ollama/ollama-python)
-*
+* Start Building These Projects to Become an LLM Engineer [Link](https://dswharshit.medium.com/start-building-these-projects-to-become-an-llm-engineer-0064e9e68d9d)
